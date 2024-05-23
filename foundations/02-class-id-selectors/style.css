@@ -1,0 +1,15 @@
+.paragraph{
+  background-color: pink;
+  font-family: Verdana, DejaVu sans, sans-serif;
+}
+
+#first-div{
+  font-size: 36px;
+  color: blue;
+}
+
+#second-div{
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
